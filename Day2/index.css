@@ -53,6 +53,18 @@ body {
 	margin-left: -10px;
 }
 
+/* The line */
+.cbp_tmtimelineOscar:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 10px;
+	background: #00000078;
+	left: 5%;
+	margin-left: -10px;
+}
+
 /* The date/time */
 .cbp_tmtimeline > li {
 	position: relative;
