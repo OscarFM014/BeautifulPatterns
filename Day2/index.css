@@ -21,8 +21,8 @@ h1{
 body {
 	font-family: 'Lato', Calibri, Arial, sans-serif;
 	background: #3494E6;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: -webkit-linear-gradient(to bottom, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to bottom, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .container {
@@ -48,7 +48,7 @@ body {
 	top: 0;
 	bottom: 0;
 	width: 10px;
-	background: #a035cbc2;
+	background: #00000078;
 	left: 5%;
 	margin-left: -10px;
 }
@@ -89,7 +89,7 @@ body {
 /* Right content */
 .cbp_tmtimeline > li .cbp_tmlabel {
 	margin: 0 0 15px 25%;
-	background: #a035cbc2;
+	background: #00000078;
 	color: #fff;
 	padding: 2em;
 	font-size: 1.2em;
@@ -102,7 +102,7 @@ body {
 }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel {
-	background: #a035cb;
+	background: #00000078;
 }
 
 .cbp_tmtimeline > li .cbp_tmlabel h2 { 
@@ -120,13 +120,13 @@ body {
 	width: 0;
 	position: absolute;
 	pointer-events: none;
-	border-right-color: #a035cbc2;
+	border-right-color: #00000078;
 	border-width: 10px;
 	top: 10px;
 }
 
 .cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
-	border-right-color: #a035cbc2;
+	border-right-color: #00000078;
 }
 
 /* The icons */
@@ -144,9 +144,9 @@ body {
 	-webkit-font-smoothing: antialiased;
 	position: absolute;
 	color: #fff;
-	background: #a035cb;
+	background: #000000;
 	border-radius: 50%;
-	box-shadow: 0 0 0 8px #a035cbc2;
+	box-shadow: 0 0 0 8px #00000078;
 	text-align: center;
 	left: 5%;
 	top: 0;
@@ -203,13 +203,13 @@ body {
 		right: auto;
 		left: 20px;
 		border-right-color: transparent;
-		border-bottom-color: #a035cb;
+		border-bottom-color: #00000078;
 		top: -20px;
 	}
 
 	.cbp_tmtimeline > li:nth-child(odd) .cbp_tmlabel:after {
 		border-right-color: transparent;
-		border-bottom-color: #a035cb;
+		border-bottom-color: #00000078;
 	}
 
 	.cbp_tmtimeline > li .cbp_tmicon {
