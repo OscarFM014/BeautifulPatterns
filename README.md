@@ -16,8 +16,8 @@ To visualize the pages:
 + HTML, CSS - Webpage
 
 ## Authors 🖋
-+ **Linda Nayeli** *-  APEX Developer -*  [LindaNayeli104](https://github.com/LindaNayeli104)
-+ **Oscar Fernandez** *- PLSQL and APEX Developer -* [OscarFM014](https://github.com/OscarFM014)
++ **Linda Nayeli** *-  Web Developer -*  [LindaNayeli104](https://github.com/LindaNayeli104)
++ **Oscar Fernandez** *- Web Developer -* [OscarFM014](https://github.com/OscarFM014)
 
 See also the list of [**contributors**](https://github.com/OscarFM014/GuadalajaraAirport/graphs/contributors) who participated in this project.
 
