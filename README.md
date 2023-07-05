@@ -19,7 +19,7 @@ To visualize the pages:
 + **Linda Nayeli** *-  Web Developer -*  [LindaNayeli104](https://github.com/LindaNayeli104)
 + **Oscar Fernandez** *- Web Developer -* [OscarFM014](https://github.com/OscarFM014)
 
-See also the list of [**contributors**](https://github.com/OscarFM014/GuadalajaraAirport/graphs/contributors) who participated in this project.
+See also the list of [**contributors**](https://github.com/OscarFM014/BeautifulPatterns/graphs/contributors) who participated in this project.
 
 ## License 📄
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
